@@ -1,16 +1,26 @@
-## Hi there 👋
+## Summary
 
-<!--
-**jpallari/jpallari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Available to help guide your development teams through the software delivery journey.
+- Specialiced in both software and cloud engineering as well as FinOps.
+- 12+ years of experience in the IT industry in many roles.
+- Founder and consultant at...
+  - [Kanto Company](https://www.kantocompany.com/)
+  - [Pallari Consulting](https://pallari.consulting/)
+- Based in Helsinki, Finland 🇫🇮
+- Contact: jaakko@pallari.consulting / jaakko.pallari@kantocompany.com
 
-Here are some ideas to get you started:
+## Core competencies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Practices
+
+FinOps, Cloud Cost Optimisation,
+Software Engineering, Cloud Engineering,
+Site Reliability Engineering, Platform Engineering, DevOps
+Performance Engineering, CI/CD, Infrastructure-as-Code,
+Functional Programming, Agile
+
+### Technologies
+
+Go, TypeScript, JavaScript, Java, Scala, Kotlin, Python,
+AWS, Azure, Kubernetes, Linux, Docker,
+GitLab, GitHub Actions, Terraform
